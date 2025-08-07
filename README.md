@@ -5,10 +5,10 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-To run this
-open package.json
-In terminal select the file location
-run these commands:
-npm install
-npm run dev
+To run this:
+- open package.json
+In terminal select the file location:
+- run these commands:
+- npm install
+- npm run dev
 
